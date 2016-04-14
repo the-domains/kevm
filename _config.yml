@@ -2,12 +2,13 @@ name: kevm
 favicon: null
 layout_spectrum: 0.5559747745282948
 typography_spectrum: 0.35799666307866573
+title: Hagiography of a geek
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76422014-1
   facebook: null
   twitter: null
 opengraph:
