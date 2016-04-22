@@ -1,29 +1,41 @@
-name: kevm
-favicon: null
-layout_spectrum: 0.5559747745282948
-typography_spectrum: 0.35799666307866573
 title: Hagiography of a geek
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6429971
+  brandStrength: 0.3566308
+  lightness: 0.2782416
+  brandColors:
+    - '#FFFFFF'
+    - '#5288E0'
+    - '#000004'
+    - '#373E50'
+    - '#D5BF9A'
+  rhythmicContrast: 0.234767
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-76422014-1
   facebook: null
-  twitter: null
+name: kevm
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6486661129165441
-  lightness: 0.27824157010763884
-  saturation: 0.6429970657918602
-  rhythmicContrast: 0.1882688137702644
-purpose: []
+typography_spectrum: 0.6541219
+layout_spectrum: 0.6308244
